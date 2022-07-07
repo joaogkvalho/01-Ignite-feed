@@ -13,11 +13,11 @@ export function Sidebar(){
             <div className={styles.profile}>
                 <img 
                     className={styles.avatar} 
-                    src="https://pbs.twimg.com/media/EkS3YzAWAAARwue?format=jpg&name=360x360" 
+                    src="https://github.com/joaogkvalho.png" 
                 />
 
                 <strong>João Gabriel</strong>
-                <span>Desenvolvedor Front End</span>
+                <span>Desenvolvedor ReactJS</span>
             </div>
 
             <footer>

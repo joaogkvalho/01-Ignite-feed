@@ -63,7 +63,7 @@
     gap: 0.5rem;
 
     transition: color 0.2s, background-color 0.2s; 
-}
+}   
 
 .sidebar footer a:hover {
     background: var(--green-500);
